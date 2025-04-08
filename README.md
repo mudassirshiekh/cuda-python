@@ -17,7 +17,7 @@ CUDA Python is currently undergoing an overhaul to improve existing and bring up
 `cuda-python` is being re-structured to become a metapackage that contains a collection of subpackages. Each subpackage is versioned independently, allowing installation of each component as needed.
 
 ### Subpackage: `cuda.core`
-
+## By Mudassir Alam
 The `cuda.core` package offers idiomatic, pythonic access to CUDA Runtime and other functionalities.
 
 The goals are to
